@@ -17,7 +17,6 @@ var_dump ($resultado);
 
 
 
-$usuarios=[
-'juan'=>25.2,
-'paco'];
-function $total_gastado()
+//Creamos una variable que almacene la cantidad total gastada
+// Recorremos el array sumando cada gasto de cada usuario
+//Mostramos el resultado
